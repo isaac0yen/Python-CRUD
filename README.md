@@ -25,15 +25,11 @@ This is a Task Management Application built using FastAPI, SQLAlchemy, and SQLit
 |  |-- index.html
 |  |-- script.js
 |-- /server
-|   |-- __init__.py
 |   |-- /models
-|   |   |-- __init__.py
 |   |   |-- task.py
 |   |-- /routes
-|   |   |-- __init__.py
 |   |   |-- task_routes.py
 |   |-- /utils
-|   |   |-- __init__.py
 |   |   |-- database.py
 |   |-- main.py
 |-- README.md
