@@ -23,7 +23,7 @@ This is a Task Management Application built using FastAPI, SQLAlchemy, and SQLit
 ```
 /--/client
 |  |-- index.html
-|  |-- stript.js
+|  |-- script.js
 |-- /server
 |   |-- __init__.py
 |   |-- /models
@@ -62,5 +62,5 @@ This is a Task Management Application built using FastAPI, SQLAlchemy, and SQLit
 
 ## Client
 The client-side was built with HTML, CSS and Javascript.
-It communicates with the server via http://localhost:8080 and it's various routes.
+It communicates with the server via http://localhost:8000 and it's various routes.
 It used CSS the following libaraies => Bootstrap W3CSS and tailwind.
